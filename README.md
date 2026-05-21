@@ -2,6 +2,8 @@
 
 Colab: https://colab.research.google.com/drive/1GifkpEytwobgm4L-TZZZjOpHCXd3b4IK?usp=sharing
 
+Github: https://drive.google.com/drive/folders/1duURQUH4Cb-D4sGi91KUF-WKKCkJLD_p?usp=drive_link
+
 
 | Model - Sample | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC | AUC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
